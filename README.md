@@ -90,7 +90,6 @@ pip install pdfplumber pandas openpyxl
 
 From inside `scripts/`, run the six pipeline scripts in numerical order (01 through 06). Each script expects the source PDF and prior-step outputs in the paths configured at the top of the file, so update these paths for your local setup before running. Final datasets are written to `DATA/`, and the finished dashboard exports can be viewed in `DASHBOARDS/`.
 
-## 10. About the Author
 
 ## 10. About the Author
 
