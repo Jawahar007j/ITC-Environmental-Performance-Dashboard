@@ -1,5 +1,3 @@
-# ITC-Environmental-Performance-Dashboard
-Python-based ETL pipeline and interactive Excel dashboard for analyzing ITC's environmental ESG performance using annual report data.
 # ITC Environmental Performance Dashboard
 
 *A Python ETL Pipeline and Interactive Excel Dashboard for ESG Analysis*
