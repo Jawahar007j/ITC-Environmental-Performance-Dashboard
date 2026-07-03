@@ -92,7 +92,9 @@ From inside `scripts/`, run the six pipeline scripts in numerical order (01 thro
 
 ## 10. About the Author
 
-Built by **Jawahar** as part of an ESG and Sustainability Analytics portfolio, applying a forestry and environmental science background (MSc Forestry, TNAU) to corporate sustainability data analysis.
+## 10. About the Author
+
+Built by **Jawahar**, an MBA and MSc graduate focused on ESG Analyst and Data/Business Analyst roles. This dashboard was built voluntarily using ITC Limited's publicly available report data, as part of a hands-on portfolio project demonstrating applied ESG analytics capability.
 
 ## 11. License
 
